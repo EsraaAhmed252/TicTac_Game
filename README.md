@@ -1,4 +1,7 @@
 # TicTac_Game
+
+https://github.com/EsraaAhmed252/TicTac_Game/assets/99142254/3fb4fa7f-5642-46a9-ae7e-cb7ee4546c60
+
 implementation of the game Tic-Tac-Toe with a computer player using the minimax algorithm for making decisions. 
 Here's an overview of the algorithm and a breakdown of the code:
 
